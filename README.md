@@ -47,4 +47,7 @@ Currently, I'm focused on **automating SOC workflows and enhancing Threat Detect
   <a href="https://github.com/V1ctorLima">
     <img alt="Github @V1ctorLima" src="https://img.shields.io/github/followers/V1ctorLima?label=follow&style=for-the-badge" />
   </a>
+  <a href="https://vlima.in">
+    <img alt="Website vlima.in" src="https://img.shields.io/badge/vlima.in-000000?&logo=Firefox&logoColor=white&style=for-the-badge&link=https://vlima.in" />
+  </a>
 </p>
